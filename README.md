@@ -16,6 +16,7 @@ https://nextjs-app-sandy-ten.vercel.app/
 - useRouter
 - Image optimization by next/image
 - mongoDB
+- nodejs
 - mongooseSchema
 - dynamicRoute
 - fetch data by axios 
